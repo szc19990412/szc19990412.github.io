@@ -26,8 +26,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
  -->
 I am a second-year graduate student at [Division of Information Science and Technology](https://www.sigs.tsinghua.edu.cn/en/faculty_list/list.htm?key=), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm).
-I am also a research intern at [Secure Learning Lab](https://aisecure.github.io/), [UIUC](https://illinois.edu/), advised by Prof. [Bo Li](https://aisecure.github.io/) and was a research intern at [SCLBD](http://scl.sribd.cn/index.html), [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/).
-Before that, I obtained my B.S. degree (GPA: 4.0/4.0, Rank: 1) in Information and Computing Science from [School of Mathematics (Zhuhai)](https://mathzh.sysu.edu.cn/en), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
+<!-- I am also a research intern at [Secure Learning Lab](https://aisecure.github.io/), [UIUC](https://illinois.edu/), advised by Prof. [Bo Li](https://aisecure.github.io/) and was a research intern at [SCLBD](http://scl.sribd.cn/index.html), [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/). -->
+Before that, I obtained my B.S. degree (GPA: 4.21/5.0, Rank: 1) in Automation from [Dalian Maritime University](http://english.dlmu.edu.cn/).
 
-My research interest lies in trustworthy AI, especially backdoor attacks and defenses in deep learning.
-My long-term goal is to make machine learning algorithms robust and interpretable.
+My research interest lies in machine learning on medical images. I currently focus on representation learning on high-resolution images for tumor diagnosis and survival prediction in computational pathology.
+<!-- My long-term goal is to make machine learning algorithms robust and interpretable. -->
